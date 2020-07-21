@@ -1,16 +1,13 @@
-### Hi there 👋
+### Why hello there!
 
-<!--
-**kousenlsn/kousenlsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Guilherme**, **Marcelo**, or **Kousen**, and I am a brazillian Fullstack Software engineer, mostly passionate lately for:
 
-Here are some ideas to get you started:
+:nut_and_bolt: Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:busts_in_silhouette: User Experience (specially their happy face)
+
+:rocket: Learning on the fly ([if you want to see my fair share of experiences](https://www.linkedin.com/in/guilherme-marcelo-luersen/))
+
+:seedling: Eating plants (and trying calisthenics)
+
+:fire: Digital illustration, concept art, and epic fantasy!
