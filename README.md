@@ -1,6 +1,6 @@
 ### Why hello there!
 
-I'm **Guilherme**, **Marcelo**, or **Kousen**, and I am a brazillian Fullstack Software engineer, mostly passionate lately for:
+I'm **Guilherme**, **Marcelo**, or **Kousen**, and I am a brazilian Fullstack Software engineer, mostly passionate lately for:
 
 :nut_and_bolt: Javascript
 
