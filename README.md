@@ -4,10 +4,10 @@ I'm **Guilherme**, **Marcelo**, or **Kousen**, and I am a brazilian Fullstack So
 
 :nut_and_bolt: Javascript
 
-:busts_in_silhouette: User Experience (specially their happy face)
+:busts_in_silhouette: User Experience
 
 :rocket: Learning on the fly ([if you want to see my fair share of experiences](https://www.linkedin.com/in/guilherme-marcelo-luersen/))
 
-:seedling: Eating plants (and trying calisthenics)
+:seedling: Eating plants (and *trying* calisthenics)
 
-:fire: Digital illustration, concept art, and epic fantasy!
+:fire: Digital illustration, art, and epic fantasy!
