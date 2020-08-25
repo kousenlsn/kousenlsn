@@ -1,6 +1,6 @@
 ### Why hello there!
 
-I'm **Guilherme**, **Marcelo**, or **Kousen**, and I am a brazilian Full-stack Software engineer, mostly passionate lately for:
+I'm **Guilherme**, **Marcelo**, or **Kousen**, and I am a brazilian Full-stack Software engineer, most passionate lately for:
 
 :nut_and_bolt: Javascript
 
@@ -10,4 +10,4 @@ I'm **Guilherme**, **Marcelo**, or **Kousen**, and I am a brazilian Full-stack S
 
 :seedling: Eating plants (and *trying* calisthenics)
 
-:fire: Digital illustration, art, and epic fantasy!
+:fire: Art and epic fantasy!
